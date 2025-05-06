@@ -1,2 +1,2 @@
-# vinstocks-website
+# stocks-website
 Website codebase
